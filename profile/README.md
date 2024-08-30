@@ -1,5 +1,4 @@
-
-# dev-env
+# test env-setup
 - install on current
   - `bash <(curl -sL jig.io/env-setup)` or `brew install luciditi/tap/env-setup`
   - `env-setup -c`
